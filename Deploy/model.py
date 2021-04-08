@@ -7,6 +7,8 @@ import pickle
 dataset = pd.read_csv('Crop_recommendation.csv')
 
 dataset["label"] = dataset["label"].astype('category')
+d = dict(enumerate(df["label"].cat.categories))
+
 dataset["label"] = dataset["label"].cat.codes
 
 X = dataset.drop('label', axis=1)
