@@ -28,7 +28,7 @@ svclassifier.fit(X_train, y_train)
 pred = svclassifier.predict(X_test)
 svclassifier.decision_function(X_test)[0]
 
-
+# Temp
 # Saving model to disk
 pickle.dump(svclassifier, open('model.pkl','wb'))
 
