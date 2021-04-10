@@ -8,16 +8,18 @@
 <link href='https://fonts.googleapis.com/css?family=Arimo' rel='stylesheet' type='text/css'>
 <link href='https://fonts.googleapis.com/css?family=Hind:300' rel='stylesheet' type='text/css'>
 <link href='https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300' rel='stylesheet' type='text/css'>
-<link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
+<link rel="preconnect" href="https://fonts.gstatic.com">
+<link href="https://fonts.googleapis.com/css2?family=Merriweather:wght@300&display=swap" rel="stylesheet"> 
+<link rel="stylesheet" href="{{ url_for('static', filename='css/login_css.css') }}">
   
 </head>
 
 <body>
  <div class="form-box">
-	<h1>Crop Prediction</h1>
-
      <!-- Main Input For Receiving Query to our ML -->
+    
     <form action="{{ url_for('predict')}}" method="post">
+    	<h1>Crop Prediction</h1>
     	<input type="text" name="N" placeholder="Enter Nitrogen (N) value" required="required" />
         <input type="text" name="P" placeholder="Enter Phosphorous (P) value" required="required" />
 	<input type="text" name="K" placeholder="Enter Potassium (K) value" required="required" />
@@ -27,11 +29,11 @@
 	<input type="text" name="rainfall" placeholder="Enter Annual Rainfall (in cm)" required="required" />
 	
         <button type="submit" class="btn btn-primary btn-block btn-large">Predict</button>
+        
+        <br>
+	   <br>
+	   <output type="text" name="crops"> {{ prediction_text }} </output>
     </form>
-
-   <br>
-   <br>
-   {{ prediction_text }}
 
  </div>
 
