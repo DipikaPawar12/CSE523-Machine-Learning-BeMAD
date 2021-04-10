@@ -9,7 +9,7 @@ body{
     align-items: center;
     flex-direction: row;
     height: 100vh;
-    background-image: url('https://images.app.goo.gl/1W2DaTd9x4Yrp75m7');
+    background-image: url('/home/miracle/Desktop/CSE523-Machine-Learning-BeMAD/Deploy/static/css/agriculture1.jpg');
     background-size: cover;
 }
 .form-box{
