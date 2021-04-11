@@ -37,13 +37,14 @@ KNN Algorithm
 - k value
  <img src="https://github.com/aanshi18/CSE523-Machine-Learning-BeMAD/blob/main/Results/KNN_k_value.JPG">
 - Confusion Matrix
-<img src="https://github.com/aanshi18/CSE523-Machine-Learning-BeMAD/blob/main/Results/KNN_confusion_matrix.png">
+<img src="https://github.com/aanshi18/CSE523-Machine-Learning-BeMAD/blob/main/Results/KNN_Confusion_Matrix.png">
 
 Naive Bayes Algorithm
 - Confusion Matrix
-<img src="https://github.com/aanshi18/CSE523-Machine-Learning-BeMAD/blob/main/Results/NaiveBayes_confusion_matrix.png">
+<img src="https://github.com/aanshi18/CSE523-Machine-Learning-BeMAD/blob/main/Results/NaiveBayes_Confusion_Matrix.png">
 
-
+Comparision 
+<img src="https://github.com/aanshi18/CSE523-Machine-Learning-BeMAD/blob/main/Results/Results_Comparison.JPG">
 ## References
 
 ---
