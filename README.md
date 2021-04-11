@@ -43,7 +43,8 @@ Naive Bayes Algorithm
 - Confusion Matrix
 <img src="https://github.com/aanshi18/CSE523-Machine-Learning-BeMAD/blob/main/Results/Naive_Bayes_Confusion_Matrix.JPG">
 
-Comparision 
+Comparision
+- All algorthms
 <img src="https://github.com/aanshi18/CSE523-Machine-Learning-BeMAD/blob/main/Results/Results_Comparison.JPG">
 ## References
 
