@@ -46,10 +46,11 @@ Naive Bayes Algorithm
 Comparision
 - All algorthms
 <img src="https://github.com/aanshi18/CSE523-Machine-Learning-BeMAD/blob/main/Results/Results_Comparison.JPG">
+
+
 ## References
 
 ---
-
 - http://agri.ckcest.cn/ass/8185d605-6c4d-4d8a-b280-c867c2304d42.pdf
 - https://1library.net/document/dzx1ldny-design-hybrid-crop-recommendation-using-machine-learning-algorithms.html
 - https://www.irjet.net/archives/V7/i2/IRJET-V7I2163.pdf
