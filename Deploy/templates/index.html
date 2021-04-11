@@ -101,13 +101,13 @@ form h1{
     
     <form action="{{ url_for('predict')}}" method="post">
     	<h1>Crop Prediction</h1>
-    	<input type="text" name="N" placeholder="Enter Nitrogen (N) value" required="required" />
-        <input type="text" name="P" placeholder="Enter Phosphorous (P) value" required="required" />
-	<input type="text" name="K" placeholder="Enter Potassium (K) value" required="required" />
-	<input type="text" name="temperature" placeholder="Enter Temperature" required="required" />
-	<input type="text" name="humidity" placeholder="Enter Humidity" required="required" />
-	<input type="text" name="ph" placeholder="Enter pH value" required="required" />
-	<input type="text" name="rainfall" placeholder="Enter Annual Rainfall (in cm)" required="required" />
+    	<input type="text" name="N" placeholder="Enter Nitrogen (N) content of soil" required="required" />
+        <input type="text" name="P" placeholder="Enter Phosphorous (P) content of soil" required="required" />
+	<input type="text" name="K" placeholder="Enter Potassium (K) content soil" required="required" />
+	<input type="text" name="temperature" placeholder="Enter Temperature (in degree Celsius)" required="required" />
+	<input type="text" name="humidity" placeholder="Enter Humidity (relative humidity in %)" required="required" />
+	<input type="text" name="ph" placeholder="Enter pH value of soil" required="required" />
+	<input type="text" name="rainfall" placeholder="Enter Annual Rainfall (in mm)" required="required" />
 	
         <button type="submit" class="btn btn-primary btn-block btn-large">Predict</button>
         
