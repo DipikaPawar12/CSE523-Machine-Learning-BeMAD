@@ -9,9 +9,9 @@
 <h1>Table of Content</h1>
 
 - [Introduction](#introduction)
-- [Content](#Content)
-- [Tools](#Tools)
-- [Contributors](#contributors)
+- [Results](#Results)
+- [References](#References)
+- [Contributors](#Contributors)
 
 ## Introduction
 ---    
@@ -22,6 +22,27 @@ Agriculture plays an important role in the development of our country. Improving
 ## Results
 
 ---
+
+SVM Scratch Algorithm 
+ - Loss vs Epoch 
+ <img src="https://github.com/aanshi18/CSE523-Machine-Learning-BeMAD/blob/main/Results/SVM_loss_vs_epoch.png">
+ - Confusion Matrix
+<img src="https://github.com/aanshi18/CSE523-Machine-Learning-BeMAD/blob/main/Results/SVM_from_scratch_confusion_matrix.JPG">
+
+ SVM Inbuilt Algorithm
+ - Confusion Matrix
+ <img src="https://github.com/aanshi18/CSE523-Machine-Learning-BeMAD/blob/main/Results/SVM_inbuilt_confusion_matrix.JPG">
+ 
+KNN Algorithm
+- k value
+ <img src="https://github.com/aanshi18/CSE523-Machine-Learning-BeMAD/blob/main/Results/KNN_k_value.JPG">
+- Confusion Matrix
+<img src="https://github.com/aanshi18/CSE523-Machine-Learning-BeMAD/blob/main/Results/KNN_confusion_matrix.png">
+
+Naive Bayes Algorithm
+- Confusion Matrix
+<img src="https://github.com/aanshi18/CSE523-Machine-Learning-BeMAD/blob/main/Results/NaiveBayes_confusion_matrix.png">
+
 
 ## References
 
