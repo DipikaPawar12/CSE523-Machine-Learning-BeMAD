@@ -36,10 +36,6 @@ This project is a part of the course Machine Learning of our college.
 - https://mblondel.org/publications/mblondel-icpr2014.pdf
 - https://www.microsoft.com/en-us/research/uploads/prod/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf
 
-## Tools
-
----
-- Python( colab )
 
 ## Contributors
 
