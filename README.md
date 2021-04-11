@@ -24,8 +24,10 @@ Agriculture plays an important role in the development of our country. Improving
 ---
 
 SVM Scratch Algorithm 
+
  - Loss vs Epoch 
  <img src="https://github.com/aanshi18/CSE523-Machine-Learning-BeMAD/blob/main/Results/SVM_loss_vs_epoch.png">
+ 
  - Confusion Matrix
 <img src="https://github.com/aanshi18/CSE523-Machine-Learning-BeMAD/blob/main/Results/SVM_from_scratch_confusion_matrix.JPG">
 
@@ -36,6 +38,7 @@ SVM Scratch Algorithm
 KNN Algorithm
 - k value
  <img src="https://github.com/aanshi18/CSE523-Machine-Learning-BeMAD/blob/main/Results/KNN_k_value.JPG">
+ 
 - Confusion Matrix
 <img src="https://github.com/aanshi18/CSE523-Machine-Learning-BeMAD/blob/main/Results/KNN_Confusion_Matrix.JPG">
 
