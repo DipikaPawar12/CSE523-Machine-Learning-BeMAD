@@ -1,7 +1,7 @@
 <h1 align = "center">
-    CSE523-Machine-Learning-BeMAD
+    Predictops-Crop Prediction System
 </h1>
-Repository for course CSE523 projectwork
+
 
 ---
 <h1>Table of Content</h1>
@@ -13,7 +13,7 @@ Repository for course CSE523 projectwork
 
 ## Introduction
 ---    
-        - Agriculture plays an important role in the development of our country. Improving the quality and the quantity of the crop production is a significant task in order to meet the food requirements of millions of people in our country. Doing farming or production of crops depends upon the properties of the soil as well as the conditions of the environment. Figuring out which crop can be grown on which land based on its properties can turn out to be useful to the farmers and the people who maintain the storage business of the crops harvested. So, it becomes important to build a system that can help in prediction of the suitable or appropriate crops that can be grown on an arbitrary land based on its soil parameters and the weather conditions.
+Agriculture plays an important role in the development of our country. Improving the quality and the quantity of the crop production is a significant task in order to meet the food requirements of millions of people in our country. Doing farming or production of crops depends upon the properties of the soil as well as the conditions of the environment. Figuring out which crop can be grown on which land based on its properties can turn out to be useful to the farmers and the people who maintain the storage business of the crops harvested. So, it becomes important to build a system that can help in prediction of the suitable or appropriate crops that can be grown on an arbitrary land based on its soil parameters and the weather conditions.
 
 
 
