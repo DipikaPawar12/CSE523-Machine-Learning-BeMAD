@@ -2,6 +2,8 @@
     Predictops-Crop Prediction System
 </h1>
 
+<img src="predictops.png">
+
 
 ---
 <h1>Table of Content</h1>
