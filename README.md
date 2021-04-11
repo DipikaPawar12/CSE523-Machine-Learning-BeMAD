@@ -2,7 +2,7 @@
     Predictops-Crop Prediction System
 </h1>
 
-<img src="predictops.png">
+<img src="https://github.com/aanshi18/CSE523-Machine-Learning-BeMAD/blob/main/Predictops.png">
 
 
 ---
